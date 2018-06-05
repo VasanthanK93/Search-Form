@@ -1,0 +1,17 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/.bin/lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ace-css": "^1.1.0",
+    "angular": "^1.7.0",
+    "lite-server": "^2.3.0"
+  }
+}
